@@ -14,5 +14,6 @@
  "android-app-name": "@QT_ANDROID_APP_NAME@",
  "qml-root-path": "@CMAKE_SOURCE_DIR@",
  @QT_ANDROID_APP_EXTRA_LIBS@
- "android-package-source-directory": "@QT_ANDROID_APP_PACKAGE_SOURCE_ROOT@"
+ "android-package-source-directory": "@QT_ANDROID_APP_PACKAGE_SOURCE_ROOT@",
+ "stdcpp-path": "@QT_ANDROID_STL_LIBRARY@"
 }
